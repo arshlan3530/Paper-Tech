@@ -1,4 +1,3 @@
-const apiKey = "c635a284b478a0aec92a3d0fdccbcc0d";  // 🔴 paste your key here
 const url = "https://gnews.io/api/v4/top-headlines?category=technology&lang=en&apikey=c635a284b478a0aec92a3d0fdccbcc0d";
 
 async function fetchNews() {
